@@ -1,5 +1,5 @@
 # meatloaf-bot
-A Twitter bot that tweets lyric's from Meat Loaf's "Bat Out of Hell" one line at a time. 
+A Twitter bot that tweets lyric's from Meat Loaf's "Bat Out of Hell" one line at a time from [@meatloafbot](https://twitter.com/meatloafbot).
 
 This is a forked from the Build-a-Bot workshop at PyDX Conf 2015 in Portland, OR.
 
