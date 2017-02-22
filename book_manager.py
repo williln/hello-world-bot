@@ -1,6 +1,6 @@
 import nltk # for sentence parsing
 nltk.download('punkt') # we're only getting the bare minimum of what we need from nltk
-book_file = 'book.txt'
+book_file = 'lyrics.txt'
 
 class BookManager:
   def __init__(self):
